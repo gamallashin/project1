@@ -1,0 +1,20 @@
+container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+child{
+    width: 33%;
+}
+#profile{
+    text-align: center;
+    background-color: wheat;
+    padding: 40px;
+}
+.hr{
+    width: 50%;
+    background: linear-gradient(left,red,blue,green);
+}
+.gamal{
+    background-color: red;
+}
